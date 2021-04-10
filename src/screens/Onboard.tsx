@@ -11,7 +11,7 @@ import {
 import {ScrollView} from 'react-native-gesture-handler';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import {COLORS} from '../consts';
-
+// https://medium.com/@dilipkumar/graphql-and-file-upload-using-react-and-node-js-c1d629e1b86b
 export const OnBoardScreen = ({navigation}: any) => {
   return (
     <SafeAreaView style={style.container}>
